@@ -1,4 +1,4 @@
-FROM node:12.22.2-stretch
+FROM node:erbium-stretch
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
