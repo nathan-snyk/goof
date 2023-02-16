@@ -1,4 +1,4 @@
-FROM node:12.22.2-stretch
+FROM node:fermium-bullseye-slim
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
