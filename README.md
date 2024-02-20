@@ -86,6 +86,8 @@ To find these flaws in this application (and in your own apps), run:
 ```
 npm install -g snyk
 snyk wizard
+
+## commit example
 ```
 
 In this application, the default `snyk wizard` answers will fix all the issues.
